@@ -1,4 +1,4 @@
-Note: This empty is represent the original code located at [this link](https://github.com/umartechboy/FivePointNineUpdateServer).
+Note: The code section looks empty because this repo represents the original code located at [this link](https://github.com/umartechboy/FivePointNineUpdateServer).
 
 #  Qosain Package Manager #
 (Formerly known as FivePointNine UpdateServer)
